@@ -1,0 +1,3 @@
+- Create, move, delete, archive logs
+- Simulate data exchange using byte and character streams
+- Use regular expressions to allow the user to retrieve specific log files based on equipment or date
