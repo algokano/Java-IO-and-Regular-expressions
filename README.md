@@ -1,8 +1,8 @@
 # Energy Management System
 
 ## Team Members
-1. Sarvar Abdurakhimov (7221535) - File management (create, move, delete, archive logs), Regular expressions
-2. Komiljon Yangiboev (7222441) - Data simulation using byte and character streams
+1. Sarvar Abdurakhimov (7221535) - File management (create, move, delete, archive logs), Regular expressions, Data simulation using byte and character streams.
+2. Komiljon Yangiboev (7222441)
 
 Video file:
 https://drive.google.com/file/d/1p88Dfdef3DFrvMlR0AeW9qRuBGgq0Soy/view?usp=sharing
